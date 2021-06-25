@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { CourseGoalItem } from '../CourseGoalItem/CourseGoalItem';
-import './CourseGoalList.css';
+import { CourseGoalItem } from '../CourseGoalItem';
+import './style.css';
 
 export function CourseGoalList (props) {
   return (

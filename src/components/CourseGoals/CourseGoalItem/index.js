@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './CourseGoalItem.css';
+import './style.css';
 
 export function CourseGoalItem(props) {
   // const [deleteText, setDeleteText] = useState('');

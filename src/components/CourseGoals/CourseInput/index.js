@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
-import { Button } from '../../UI/Button/Button';
-import './CourseInput.css';
+import { Button } from '../../UI/Button';
+import './style.css';
 
 export function CourseInput( props) {
   const [enteredValue, setEnteredValue] = useState('');
